@@ -50,6 +50,39 @@ Good Game Score
 			some games can be very shit
 	
 
+============================================================================================
+
+Last 5 game results
+
+int calcGameScore(t1, t2)
+{
+    int GGS
+    
+
+
+
+    df = lastfivegames(t1, t2)
+    use df to calc how many point to add to GGS
+
+
+    return GGS
+}
+
+df lastfivegames(team1, team2)
+{
+    df lfg
+    for i in range(5)
+    {
+        *api call to get results*
+        add results to df
+
+        what df should look like
+        # T1 | score 1, score 2...
+        # T2 | score 1, score 2...
+    }
+
+    return lfg
+}
 
 	
 	
