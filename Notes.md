@@ -1,4 +1,7 @@
-https://sportsreference.readthedocs.io/_/downloads/en/v0.2.1/pdf/
+nba api docs:
+https://github.com/swar/nba_api/blob/master/README.md
+
+
 What is a good game?
 ===============================
 BoxScore
